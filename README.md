@@ -16,7 +16,6 @@ This repository contains the implementation and documentation for two new cache 
   - Nimisha Thallapally
 
 ## References
-Include any references or research papers that were used in the development and analysis of the cache replacement policies.
-A Cache Replacement Policy Based on Re-reference Count Sreya Sreedharan Department of Computer Science and Engineering Rajagiri School of Engineering and Technology Kochi, India <br>
+Refered Paper: A Cache Replacement Policy Based on Re-reference Count Sreya Sreedharan Department of Computer Science and Engineering Rajagiri School of Engineering and Technology Kochi, India <br>
 Referenced Site: IEEE Xplore,GeeksforGeeks
 
